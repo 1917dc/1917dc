@@ -1,5 +1,3 @@
-# about
-
 passionate linux enthusiast.
 
 ## stack
