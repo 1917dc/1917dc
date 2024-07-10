@@ -7,5 +7,5 @@ passionate linux enthusiast, studying to become a programmer.
 
 ## tools:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim,idea,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,idea,figma)](https://skillicons.dev)
 
