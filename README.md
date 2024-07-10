@@ -1,1 +1,11 @@
-[![My Skills](https://skillicons.dev/icons?i=linux,c,lua,mysql,neovim,sqlite,java,spring,python,js,nodejs,expressjs,bootstrap)](https://skillicons.dev)
+# about:
+
+passionate linux enthusiast, studying to become a programmer.
+
+## stack:
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,lua,mysql,sqlite,java,spring,python,js,nodejs,expressjs,bootstrap)](https://skillicons.dev)
+
+## tools:
+
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,idea,figma)](https://skillicons.dev)
+
